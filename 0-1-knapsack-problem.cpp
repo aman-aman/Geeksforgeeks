@@ -33,5 +33,6 @@ int main()
         }
 
         printf("%d\n",dp[n][W]);
+        
     }
 }
