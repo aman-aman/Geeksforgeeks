@@ -1,5 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
+//O(N)
 int main()
 {
     int t;
